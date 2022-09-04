@@ -1,16 +1,16 @@
 #!/usr/bin/python3
-"""Place module"""
-
-
+"""A module containing the model for place data sets.
+"""
 from models.base_model import BaseModel
 
 
 class Place(BaseModel):
-    """Place class that inherits from BaseModel"""
-    city_id = ""
-    user_id = ""
-    name = ""
-    description = ""
+    """Represents a place data set.
+    """
+    city_id = ''
+    user_id = ''
+    name = ''
+    description = ''
     number_rooms = 0
     number_bathrooms = 0
     max_guest = 0

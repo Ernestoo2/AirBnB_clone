@@ -1,11 +1,13 @@
 #!/usr/bin/python3
-""" Module User """
+"""A module containing the model for user data sets.
+"""
 from models.base_model import BaseModel
 
 
 class User(BaseModel):
-    """Represents a subclass of BaseModel """
-    password = ""
-    email = ""
-    first_name = ""
-    last_name = ""
+    """Represents the base class for all user data sets.
+    """
+    email = ''
+    password = ''
+    first_name = ''
+    last_name = ''
