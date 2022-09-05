@@ -125,4 +125,5 @@ The following commands are supported:
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@EshietIy](https://github.com/EshietIy) - Eshiet Inyang
+- [@Anitachi](https://github.com/Anitachi) - Anitachi
+- [@Ernestoo2](https://github.com/Ernestoo2) - Ernestoo2
